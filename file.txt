@@ -1,1 +1,2 @@
 This is master file.
+This is feature2.
